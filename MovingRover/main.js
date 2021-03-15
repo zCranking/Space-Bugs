@@ -6,7 +6,6 @@ background_image = "mars.jpg";
 rover_image = "rover.png";
 rover_x = 10;
 rover_y = 10;
-pics_array = [""]
 function add(){
     background_drawing = new Image();
     background_drawing.onload = backgroundrawer;
